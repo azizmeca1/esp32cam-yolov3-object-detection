@@ -27,3 +27,15 @@ A real-time object detection system that combines ESP32-CAM with YOLOv3 for inte
 - Arduino IDE (for ESP32 programming)
 
 ## 📁 Project Structure
+esp32cam-yolov3-object-detection/
+├── esp32_cam/ # ESP32-CAM source code
+│ └── esp32_cam.ino # Arduino sketch for camera
+├── python_client/ # Python detection client
+│ ├── detection.py # Main detection script
+│ ├── requirements.txt # Python dependencies
+│ └── yolov3.cfg # YOLO configuration file
+├── models/ # Model files (add manually)
+│ ├── yolov3.weights # YOLO pre-trained weights
+│ └── coco.names.txt # COCO class names
+├── docs/ # Documentation
+└── README.md # This file
