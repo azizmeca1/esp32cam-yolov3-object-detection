@@ -1,3 +1,9 @@
+ ESP32-CAM YOLOv3 Object Detection
+
+![Project Demo](images/demo.jpg)
+*Exemple de détection d'objets en temps réel*
+
+
 # 📷 Real-Time Object Detection System with ESP32-CAM and YOLOv3
 
 A real-time object detection system using ESP32-CAM camera and YOLOv3 model with OpenCV.
