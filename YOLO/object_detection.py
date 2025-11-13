@@ -2,7 +2,7 @@ import numpy as np
 import urllib.request
 import cv2
 
-url = 'http://192.168.1.16/cam.jpg'
+url = 'http://192.168.1.16/cam.jpg' #change you're url esp32 cam
 
 whT = 320
 confThreshold = 0.5
