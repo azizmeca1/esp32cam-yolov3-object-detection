@@ -1,4 +1,4 @@
-![Détection](images/example_of_detection.png){: width="600" }
+![image alt](https://github.com/azizmeca1/esp32cam-yolov3-object-detection/blob/main/images/exemple_of_detection.png?raw=true)
 
 
 *Système de détection d'objets en temps réel avec ESP32-CAM et YOLOv3*
