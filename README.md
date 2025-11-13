@@ -1,4 +1,6 @@
-![Example de Détection](images/example_of_detection.png)
+![Détection](images/example_of_detection.png){: width="600" }
+
+
 *Système de détection d'objets en temps réel avec ESP32-CAM et YOLOv3*
 
 
